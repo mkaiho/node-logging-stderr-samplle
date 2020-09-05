@@ -1,0 +1,19 @@
+{
+  "name": "logging-stderr-samplle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkaiho/node-logging-stderr-samplle.git"
+  },
+  "author": "mkaiho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mkaiho/node-logging-stderr-samplle/issues"
+  },
+  "homepage": "https://github.com/mkaiho/node-logging-stderr-samplle#readme"
+}
